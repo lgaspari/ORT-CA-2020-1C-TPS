@@ -1,0 +1,12 @@
+{
+  "name": "apareo-con-actualizacion",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test": "node --experimental-modules test/apareoConActualizacion.test.mjs"
+  },
+  "keywords": [],
+  "author": "Leandro Gaspari",
+  "license": "ISC",
+  "description": ""
+}

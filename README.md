@@ -6,6 +6,7 @@ Este repositorio contiene los trabajos prácticos de Computación Avanzada de OR
 
 - [Unidad 1](./Unidad-1)
   - [Trabajo Práctico 1](./Unidad-1/01-TP-ManejoDeArchivosSync)
+  - [Trabajo Práctico 2](./Unidad-1/02-TP-ApareoConActualizacion)
 
 ## Autores
 
