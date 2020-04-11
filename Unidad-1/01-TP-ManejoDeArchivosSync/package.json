@@ -1,0 +1,14 @@
+{
+  "name": "01-tp-manejo-de-archivos",
+  "version": "1.0.0",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node --experimental-modules test/apareo.test.mjs"
+  },
+  "keywords": [],
+  "author": "Leandro Gaspari",
+  "license": "ISC"
+}
