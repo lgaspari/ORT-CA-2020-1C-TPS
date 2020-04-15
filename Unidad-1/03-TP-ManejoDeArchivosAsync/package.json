@@ -1,0 +1,15 @@
+{
+  "name": "apareo-con-actualizacion",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "test-async": "node --experimental-modules test/backupDirectorioAsync.test.mjs",
+    "test-callback": "node --experimental-modules test/backupDirectorioCallback.test.mjs",
+    "test-promises": "node --experimental-modules test/backupDirectorioPromises.test.mjs",
+    "test-sync": "node --experimental-modules test/backupDirectorioSync.test.mjs"
+  },
+  "keywords": [],
+  "author": "Leandro Gaspari",
+  "license": "ISC",
+  "description": ""
+}
